@@ -11,7 +11,6 @@ Aspiring Data Analyst passionate about solving business problems with data.
 SQL • Python • Pandas • Power BI • Excel • Git
 
 ### 📫 Contact
-📧 bhushandesai2006@gmail.com
-💼 - [LinkedIn](linkedin.com/in/bhushan-desai-0677a2332
+📧 **bhushandesai2006@gmail.com**
 
-)
+💼 **LinkedIn:** [Bhushan Desai](https://www.linkedin.com/in/bhushan-desai-0677a2332/)
