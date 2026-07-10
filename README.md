@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Bhushan Desai 👋
 
-<!--
-**BhushanDesai-17/BhushanDesai-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst passionate about solving business problems with data.
 
-Here are some ideas to get you started:
+### 💼 Currently Working On
+- Data Analytics Portfolio Projects
+- SQL, Python & Power BI
+- Data Analyst Internship Preparation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+SQL • Python • Pandas • Power BI • Excel • Git
+
+### 📫 Contact
+📧 your.email@example.com  
+💼 LinkedIn: https://linkedin.com/in/your-profile
