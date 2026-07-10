@@ -12,4 +12,6 @@ SQL • Python • Pandas • Power BI • Excel • Git
 
 ### 📫 Contact
 📧 bhushandesai2006@gmail.com
-💼 LinkedIn: linkedin.com/in/bhushan-desai-0677a2332
+💼 - [LinkedIn](linkedin.com/in/bhushan-desai-0677a2332
+
+)
