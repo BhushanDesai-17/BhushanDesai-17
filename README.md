@@ -8,7 +8,7 @@ Aspiring Data Analyst passionate about solving business problems with data.
 - Data Analyst Internship Preparation
 
 ### 🛠️ Tech Stack
-SQL • Python • Pandas • Power BI • Excel • Git
+SQL • Python • Pandas • Power BI • Excel 
 
 ### 📫 Contact
 📧 **bhushandesai2006@gmail.com**
